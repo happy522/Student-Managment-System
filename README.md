@@ -27,6 +27,8 @@ The Student Management System is a Java-based web application that facilitates t
 
 ## Dependencies
 - Java Development Kit (JDK)
+- Java Server Pages
+- JDBC
 - Java Servlet Container (e.g., Apache Tomcat)
 - MySQL Database
 
